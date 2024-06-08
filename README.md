@@ -11,7 +11,6 @@ This project is a clone of the Apple Vision Pro website, designed to replicate i
 - [Usage](#usage)
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
